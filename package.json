@@ -1,7 +1,9 @@
 {
   "name": "tamil-lorem",
   "displayName": "Tamil Lorem",
-  "description": "",
+  "publisher": "TamilCoden",
+  "description": "Extension to quickly insert Tamil text in editor.",
+  "icon": "./tamil-lorem-logo128.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -47,5 +49,9 @@
     "mocha": "^10.1.0",
     "typescript": "^4.9.3",
     "@vscode/test-electron": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamilcoden/Tamil-Lorem.git"
   }
 }
